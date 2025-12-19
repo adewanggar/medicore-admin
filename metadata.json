@@ -1,0 +1,5 @@
+{
+  "name": "MediCore Admin",
+  "description": "A modern, minimalist admin panel for health clinics featuring patient management, appointment tracking, and Gemini AI-powered medical summarization.",
+  "requestFramePermissions": []
+}
