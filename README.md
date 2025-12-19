@@ -4,6 +4,8 @@
 
 A professional and modern admin dashboard for managing healthcare data and medical services.
 
+[**Live Demo**](https://alfan-medicore-admin.vercel.app/)
+
 ## Features
 
 - **Comprehensive Dashboard**: Real-time overview of medical operations.
