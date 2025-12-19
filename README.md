@@ -1,16 +1,16 @@
-# 🏥 Medicore Admin
+# Medicore Admin
 
 A professional and modern admin dashboard for managing healthcare data and medical services.
 
-## ✨ Features
+## Features
 
-- **📊 Comprehensive Dashboard**: Real-time overview of medical operations.
-- **📁 Patient Management**: Easily manage patient records and histories.
-- **📅 Appointment Scheduling**: Streamlined scheduling for healthcare providers.
-- **📈 Analytics & Reporting**: Data-driven insights for better decision-making.
-- **🔐 Secure Access**: Role-based access control for medical staff.
+- **Comprehensive Dashboard**: Real-time overview of medical operations.
+- **Patient Management**: Easily manage patient records and histories.
+- **Appointment Scheduling**: Streamlined scheduling for healthcare providers.
+- **Analytics & Reporting**: Data-driven insights for better decision-making.
+- **Secure Access**: Role-based access control for medical staff.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework**: [React 19](https://react.dev/)
 - **Build Tool**: [Vite](https://vitejs.dev/)
@@ -18,7 +18,7 @@ A professional and modern admin dashboard for managing healthcare data and medic
 - **Data Visualization**: [Recharts](https://recharts.org/)
 - **Type Safety**: [TypeScript](https://www.typescriptlang.org/)
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -52,12 +52,12 @@ A professional and modern admin dashboard for managing healthcare data and medic
    npm run dev
    ```
 
-## 👨‍💻 Developed By
+## Developed By
 
 **Alfansyah Dewangga R**
 
-- 📧 Email: [adewanggar@gmail.com](mailto:adewanggar@gmail.com)
-- 📞 Phone/WhatsApp: [081225125437](https://wa.me/6281225125437)
+- Email: [adewanggar@gmail.com](mailto:adewanggar@gmail.com)
+- Phone/WhatsApp: [081225125437](https://wa.me/6281225125437)
 
 ---
 
