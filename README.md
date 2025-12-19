@@ -1,5 +1,7 @@
 # Medicore Admin
 
+![Medicore Admin Mockup](public/images/mockup%201.png)
+
 A professional and modern admin dashboard for managing healthcare data and medical services.
 
 ## Features
